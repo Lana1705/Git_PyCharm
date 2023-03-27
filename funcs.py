@@ -1,7 +1,7 @@
 def add_numbers(x,y):
    sum = x + y
-   return sum
+   print(sum)
 
 def minus_numbers(x,y):
    minus = x - y
-   return minus
+   print(minus)
